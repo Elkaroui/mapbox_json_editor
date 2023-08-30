@@ -43,7 +43,7 @@ Welcome to the Folder Details Management App! This user-friendly and easy-to-use
 
 ## Feedback and Support
 
-We welcome your feedback and suggestions for improving the app. If you encounter any issues or have questions, please feel free to [open an issue](https://github.com/your-username/folder-details-app/issues).
+We welcome your feedback and suggestions for improving the app. If you encounter any issues or have questions, please feel free to [open an issue](https://github.com/Elkaroui/Eloka_json/issues).
 
 ## License
 
