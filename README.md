@@ -37,8 +37,9 @@ Welcome to the Folder Details Management App! This user-friendly and easy-to-use
 
 ## Screenshots
 
-![App Screenshot 1](screenshot1.png)
-![App Screenshot 2](screenshot2.png)
+![App Screenshot 1](https://github.com/Elkaroui/Eloka_json/raw/main/img_readme/20230830172115.jpg)
+![App Screenshot 2](https://github.com/Elkaroui/Eloka_json/blob/main/img_readme/20230830172133.jpg)
+![App Screenshot 3](https://github.com/Elkaroui/Eloka_json/blob/main/img_readme/20230830172158.jpg)
 
 ## Feedback and Support
 
